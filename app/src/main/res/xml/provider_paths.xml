@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?><!--
+  ~ Created by Samyak Kamble on 9/19/24, 10:45 PM
+  ~  Copyright (c) 2024 . All rights reserved.
+  ~  Last modified 9/19/24, 10:45 PM
+  -->
+
+<paths xmlns:android="http://schemas.android.com/apk/res/android">
+    <cache-path
+        name="pixelscanner"
+        path="/"/>
+
+</paths>
